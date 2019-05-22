@@ -1,4 +1,4 @@
-# Marker-infowindow-Modal
+# Multiple Markers in Google Maps API Modal Window
 
 # Requirements
 Bootstrap 3
