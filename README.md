@@ -17,14 +17,19 @@ Add the code in javascript instead of  marker.addListener fucntion
 
 
 google.maps.event.addListener(marker, 'click', (function(marker) {
+
 return function() {
+
 $(".modal-title").text(name);  //the 'name' is a Javascript variable
+
 $(".modal-body").text(address); //the 'address' is a Javascript variable
+
 $("#myModal").modal('show');
+
 }})(marker));
 
 
-Add the Html Section inside Body
+Add the Html Section inside Body Section
 
 <div class="modal fade" id="myModal" role="dialog">
 <div class="modal-dialog">
