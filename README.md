@@ -26,8 +26,8 @@ $(".modal-body").text(address); //the 'address' is a Javascript variable
 
 $("#myModal").modal('show');
 
-}})(marker));```
-
+}})(marker));
+```
 
 Add the Html Section inside Body Section
 ```
@@ -44,7 +44,8 @@ Add the Html Section inside Body Section
 </div>
 </div>
 </div>
-</div>```
+</div>
+```
 
 
 
