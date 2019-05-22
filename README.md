@@ -4,6 +4,7 @@
 Bootstrap 3
 Google Maps API KEY
 
+# Steps
 Multiple markers in Google maps api with modal for infowindow
 
 The index.html contains code to make Multiple Markers in Google Maps API to have Modal instead of infowindow that comes with the API
